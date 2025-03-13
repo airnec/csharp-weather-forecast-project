@@ -16,4 +16,4 @@ Weather Forecast Data Fetching Application
 
 ## Some views from the project:
 
-![Açýklama metni](CSharpWeatherForecastProject/wwwroot/assets/Intro1.png)
+![Açýklama metni](wwwroot/assets/Intro1.png)
