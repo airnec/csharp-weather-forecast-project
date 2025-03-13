@@ -2,14 +2,18 @@
 
 Weather Forecast Data Fetching Application
 
-Scenario Description:
+# Scenario Description:
 
 - The user is able to select a city to see its real-time weather forecast:
 
-Features:
+# Features:
 
 - Models-Views-Controllers (MVC) design pattern
 - Real-time weather forecast data fetching
 - User-friendly interface
 - User-friendly error handling
 - Serialization and deserialization of JSON data
+
+## Some views from the project:
+
+![Açýklama metni](CSharpAgriculture/wwwroot/assets/Intro1.png)
