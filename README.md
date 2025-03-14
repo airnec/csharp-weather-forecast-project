@@ -9,7 +9,7 @@ Weather Forecast Data Fetching Application
 ## Features:
 
 - Models-Views-Controllers (MVC) design pattern
-- Real-time weather forecast data fetching
+- Real-time weather forecast data fetching from the OpenWeatherMap API
 - User-friendly interface
 - User-friendly error handling
 - Serialization and deserialization of JSON data
